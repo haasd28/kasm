@@ -2,15 +2,15 @@
 
 const nextConfig = {
   env: {
-    name: 'Mapache Webtops',
-    description: 'mapache workspaces.',
-    icon: 'https://successbyfailure.github.io/kasm-registry/1.0/mapache.png',
-    listUrl: 'https://successbyfailure.github.io/kasm-registry/',
+    name: 'Dennis Workspace',
+    description: '-------',
+    icon: '/img/logo.svg',
+    listUrl: 'https://haasd28.github.io/kasm/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
   swcMinify: true,
-  basePath: '/kasm-registry/1.0',
+  basePath: '/kasm/1.0',
   trailingSlash: true,
   images: {
     unoptimized: true,
